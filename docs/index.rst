@@ -1,4 +1,4 @@
-How to Login to TND TV Account: A Step-by-Step Guide
+How to Login TND TV Account: A Step-by-Step Guide
 ============================================
 
 .. toctree::
