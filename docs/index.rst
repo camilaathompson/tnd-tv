@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/tndtv-login-account/">
+
 How to Login TND TV Account: A Step-by-Step Guide
 ============================================
 
@@ -11,7 +15,7 @@ With the rise of over-the-top (OTT) content, TND TV has become a popular destina
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/tndtv-sign-in-account
+   :target: https://aclogportal.com/tndtv-login-account
 ________________________
 
 1. What Makes Your TND TV Sign In Account Essential
